@@ -1,0 +1,10 @@
+
+
+flag == PICOCTF{THENUMBERSMASON}
+
+
+
+found using an online tool
+
+
+Letter - Number cipher [A1Z26]
